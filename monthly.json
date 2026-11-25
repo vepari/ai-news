@@ -17,7 +17,7 @@
      "summary": "Anthropic's IPO priced at $83 a share, valuing the company at $1.5tn. This massive valuation highlights the growing hype and investment in AI, sparking concerns about an AI bubble.",
      "needs_login": false,
      "coverage": 12,
-     "link": "hntbweiFy1F3CyNrEPHo2iKQ0TtzQs3UbSz/mCZWdbcta4Nckb8CM8cvTry/UFnAsNn89g8L8IguFYag6qts08qDJf5ylyUty6ySSQNkw3yFhtOYbg/r0SyNjN/T7+s0KpNkHz7K8IkOnyUWa001"
+     "link": "0ojZGRMvJ75agE9hCkewfxD36kdMM/4nWT38mFOMjeEPyN8gaMqdFHD3DdtjbDAbAJNFFidsFF9HA+heD6jr6pLHW3ofnm/sbDkmJXcMvLBrSyn3NG8t5H+HA8gIhD+gjP9OJtNbDpfvqnAWwZrL"
     },
     {
      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
@@ -30,7 +30,7 @@
      "summary": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, upgraded models for technical challenges, with improved coding, reasoning, and vision capabilities, and enhanced safety features. This matters because it shows significant advancements in AI capabilities, but also highlights the need for careful evaluation and use of such powerful models.",
      "needs_login": false,
      "coverage": 9,
-     "link": "DfEhTImaCJMo0WQmdIT3G06CB4VnNfEYHf9ccTeDS3PGPjMZHWGgkHo2tSqAAJyQv2MR76mWgA0BfcQW+1TDn4mM0IWOpqjq/SYwvAspTr0x"
+     "link": "gLrSZ5sg/RSgqXFLeLmgm8buJqG2bvacCI+rP6VkPSEuOsVtlCMvtleA0Cva0gjtHClov4Zd5auboHImN3QUwKn/zjogaPbWfKXnpjomWYBg"
     },
     {
      "title": "Introducing GPT-6.2 Astra and Sol",
@@ -43,7 +43,7 @@
      "summary": "OpenAI introduces GPT-6.2 Astra and Sol, with improved performance in professional outputs, coding, and computer use, at a lower cost. This matters because it could increase the reliability and trustworthiness of AI models in various applications.",
      "needs_login": false,
      "coverage": 7,
-     "link": "gc4KZbuGWf9DtA8QR+fPNCJPTBForQjmRvZGb3dpqTrXo47OGqFSjmaOL/ky2q94mVGDDJsHSbCk0Kco+KzGnPy/02VjZtitr3xt7cVOYBQPYA=="
+     "link": "Q02ZfSCPtAJpnGNOxiU/qPFX5MmrHD1AlaaFOWftIP/bLs2UQoBfT5Eh1qcR0UUQwbfTMDSouziTkEW17hSuh0OaZ7R9waJuYKVMRctlGh0tbg=="
     },
     {
      "title": "Anthropic lets companies run Claude’s agent service on their own servers",
@@ -56,7 +56,7 @@
      "summary": "Anthropic now allows companies to run Claude Managed Agents on their own servers, giving them more control over data and model calls. This matters because it addresses concerns around data sovereignty and potential vendor lock-in.",
      "needs_login": false,
      "coverage": 7,
-     "link": "ebaXbwA44eP7azBVpTT9n7AdceZdlP5v7Do4oez8J+zJOJbQLmhFA+z8x6IUqeIZpuSIhJ5Ja58Do+mX83RQh3pZLBHC2+mGdAPXSMhlqf5LPtvqd1iLY27tXqjqAYjfJJJI"
+     "link": "zqe9FW65e3t8DwZaJOaSc+iRtm+G5g4uGl3lhqQO4n/FcQY1ies6cwZ9ISbrquOYcPd4Jny7W7QX6nGuJOZsC06r15M45MkQvZjRwEmHnojVYaQeQGErK4TQnQYnsWmmrgff"
     },
     {
      "title": "Nvidia CEO Jensen Huang Resigns, Creating Uncertainty for the AI Sector",
@@ -70,7 +70,7 @@
      "summary": "Nvidia CEO Jensen Huang resigned amid reports of a foreign intelligence effort and an extramarital affair. His departure creates uncertainty for the AI sector, which relies heavily on Nvidia's AI-focused hardware.",
      "needs_login": true,
      "coverage": 8,
-     "link": "nxMgXwmq/vHLi1N/xfXqJqLn5UG03Hqb1P0PYvXHLzpJK5dmClcH8m8etaHuZolH9V+dmoS5js9zoo8na5UYh6qBNsrjNc/CrZLnaOITxePzyBPNaceQvPoSGM60u+ounNJT0X/3hbnuX4WEw8dIIBMWEqorT+owcGg85wvlAw1V+g=="
+     "link": "fajPUhq7eVgHZIwhQRYSicAevGeXLOp/7nEBM6QTxi7ibMfWTN3lLhW5n7m87RceeYyoEZMaSlX+DLfxGoPhIicMR8lD45LrbnmpNk0ThBHcfs7jGYSIOIps0nX4cNCmzJwDlw2+ewE6XxZiIu5DmgYHOlhJVtSxqDfmFq10NZVi0g=="
     },
     {
      "title": "Anthropic researcher claims Claude helped him prove the Riemann hypothesis",
@@ -82,7 +82,7 @@
      "summary": "Anthropic researcher Levent Alpöge claims to have used Claude to prove the Riemann hypothesis, a famous unsolved math problem. This could be a significant breakthrough in mathematics if verified.",
      "needs_login": false,
      "coverage": 6,
-     "link": "Nr9roNcLlqIm5TVKgar5ySDY1w/evpWoX+3UGusnFyInLIKpAExCtYtFPUlaEPRbTz8C4m0HHF5+2JA8rGR4uPMEgLzmi5/XQqCKfy1XzMRUHLuoU90aoUvGR/neqA377o6d07j2Vs4xDlkEYDYwYIvBKoYKEBjAGWYI0dPma/LLcg=="
+     "link": "Mxoo5i6xO5SS88slLxnEtZwnzIKxBpOA11yW4jGy0ICf3aUgD0nJ6FKI1Qo6jfKfZIwKGDc2+2jeIx0/j35QoNC2DYzF17wBwHSBI2+YAdBxp1ilJLG1Q9jlvzl+5SQm88ZxKUoqEyppM1dVNt8ZLYESz0CZDD+/IoUddKKQjbalVA=="
     },
     {
      "title": "Cursor published indicators of compromise and remediation steps for its tampered Claude Code extension",
@@ -94,7 +94,7 @@
      "summary": "A malicious version of Anthropic's Claude Code extension was published in the Cursor VS Code Extension Marketplace, attempting to install a persistent SSH backdoor and collect user information. This highlights the importance of verifying the authenticity of AI tools and extensions.",
      "needs_login": false,
      "coverage": 6,
-     "link": "2TM2Vt6N5HQhTa68Vp0+SFVt9QqITpK2H5rx/2cbRajpgb9rQ7DPcp6CI7dGDp0r+zEqZBQezmc4NWmhER0Z7DMRT3yRKSiWOFxrYcmbCI4MaWVHAueVQa8="
+     "link": "vSqf/Zhq/aQdL2WZDLuwk9V0m2crlGdGPc0Hw3/f+4p7HZJVYL0Bbk3W0FQbdZX7pe8+FUEuLnAVUkHFXxMsaXQC+f0RKNEy/lfBWA93p+Wn3AogdmEjewE="
     },
     {
      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
@@ -108,7 +108,7 @@
      "summary": "OpenAI introduces GPT-6 Cyber, a cybersecurity model that finds vulnerabilities and develops fixes, trained to stay within authorized scope. This matters because it could improve the efficiency and effectiveness of cybersecurity efforts.",
      "needs_login": false,
      "coverage": 6,
-     "link": "eeqOISJSJgypsC+TUOSSmuN1MZjRaTaZik+DNsk8gZGjtpoXNk/9aW4Xv6hthz3m3WZVFxJNYFFNBiMv4KCyn6BJVqw1v5HaLObb5A=="
+     "link": "odbN6gYDyZqI5n8HDi4jBTmXkabko/jRc0L8GDgXRTP1TqhJgYn4fes9u2WMF+uOOVCMON9T6EWOSKSdW7GPrN8d6g8/06dwn9SrEg=="
     },
     {
      "title": "Two Years of MCP Builders",
@@ -120,7 +120,7 @@
      "summary": "The Model Context Protocol (MCP) celebrates its 2-year anniversary, highlighting its community's growth with over 2,500 unique contributors since its launch on GitHub. This milestone marks the project's progress in connecting AI applications to tools and data.",
      "needs_login": false,
      "coverage": 7,
-     "link": "iHi9axcXm94Ods3BEONpBvLaxilzW9MNcfvaFX4xx3ZMuagNauX5mb1zveHDBCMkKG80EkI2KscYHkbaVKU9myqGNczP8MSpk47GozrHLiucJsUl"
+     "link": "z6QNDtW592fJxvJ/pwj4AyeojlrwiSv2qpDO5QZvkMss9N9QvFmTu/+RgKHS69KYwr0QJIcdrHCb36QYB919JgPOTX0qPY0/kmWdaoydjv91XcuO"
     },
     {
      "title": "Meta’s Muse Ember matches Claude Haiku at a third of the cost per task",
@@ -134,7 +134,7 @@
      "summary": "Meta releases Muse Ember, a small and affordable AI model costing $0.10 per million input tokens, suitable for repetitive tasks. This matters as it could make AI more accessible for smaller tasks and reduce costs.",
      "needs_login": false,
      "coverage": 4,
-     "link": "MS4SnCq8TWgFL+izcQfCa96CS7ag8UTwG6kaMz6LD5m85L6depk3p70JDgLHvWZLt5MnagG9xo9I1XEVOjisTz9EQ3E+GmfN/q2Lh2O5deOIiEO5NSSS8c70lNwzWjhucg=="
+     "link": "nTrk3QWYPftbWz8Mz9889MHFdVCUlYMh41iyTd3f6r1HQkH0cFBWVwX3HZkSIJ0Z9GaVi6IGqocKUCbqlWi8oB1ACH+N0PWwbj1j1pfpAR7gqJISiaKO8AO1SWvgqQLqCw=="
     }
    ]
   },
@@ -155,7 +155,7 @@
      "summary": "Anthropic's quarterly revenue increased nearly 50% to $16.8bn, with $1.70 in revenue for every $1 spent on computing power, and adjusted operating margins of 11%.",
      "needs_login": false,
      "coverage": 7,
-     "link": "MheCU8HcrXoNZhE9Ighpzafi70Q244PfDQP1IZ6fv2Ptlya7ikmUsx8LBDdM1SKjW44EWw6rOr4Av13nlA8CpbS4F44g/a374QIS+W/0n4YSemNdjlqIw1DdCA=="
+     "link": "GEYMTOn7kxvpyv0RFX7K8zpwyb7VE0/TngMwCgYbM5HZLoSZ/3WvlMk4UQlh/5oYS25JrPmZ70GZcb9vYD0RS757u0QL4dxR0vQR0jUL+1Y4bKD8oH0htTJx4Q=="
     },
     {
      "title": "Google to Sell AI Chips to OpenAI, Oracle",
@@ -168,7 +168,7 @@
      "summary": "Google will sell its tensor processing units (TPUs) to Oracle and OpenAI, challenging Nvidia's dominance in the AI chip market.",
      "needs_login": true,
      "coverage": 2,
-     "link": "Phrf8OMBqjFPQxwCKGtVsv1wrvnmBhStbsK91rxDdkePqjkvxiSPE4mjRkC+QLvrdzfoE/dnu7gf30QjNOEH2PCmv8wwfGTI0B9lRwj5hbrH7pIBqg66bQL4Im6BAT4g45rIDIBDeUFWllA="
+     "link": "ipo9jwituGknoc874hzxAYUd4JA4D3cNGQLXR+r2ItPxtJr7ehu4yn0hojC8e7JRG4w5pVGBW24uC3AuLZdtbJPJOL4d/9T0Jpifh8O//k1LIIfZuUoOdvVTXZ4G+BXTTnaRKStID+I7AKg="
     },
     {
      "title": "No Signs of AI Payoff Outside the Tech Sector",
@@ -183,7 +183,7 @@
      "summary": "A study finds no financial payoff from AI investments outside the tech sector, with revenue and profit margins flat for non-tech companies. This raises concerns about the limited macroeconomic impact of AI and its potential to drive revenue growth and profit margins.",
      "needs_login": false,
      "coverage": 4,
-     "link": "OaSFHaj8Q0lgtZE8Pe8QC+KS59X4c7PfTj0yJQe3AJJzunXF1F9KeLJDzcGqPKZAA05OS02Vp3GtGPxNd9tVps7+HtmxbVYm+LZwDSkVjNi6Gf8l+FxV68lf7QKX+pDCX/UNaV31tRNOnViPiBZDbX8mb9dXn112tQunmHdLaj5uYg0="
+     "link": "g01oAQOTKbpFijDJijPd6SbtRmbsMhhp40fxB3In4lgjFBREAsSCt0xYxQ+4KtokcHwJZgh6y+iiA5ZAjS0SZkocWgjvT/UTSS8X6MQMxhG1+5G1v3D/lCB3FVwtTNcq00QLnZfXGG87uwW4tUrTvkVyhaxwGa5WuxuoclT2gBF2ODM="
     },
     {
      "title": "OpenAI acquires Orchestra Bio",
@@ -196,7 +196,7 @@
      "summary": "OpenAI acquires Orchestra Bio to bring AI-powered operations to life sciences R&D, accelerating drug development and advancing new treatments.",
      "needs_login": false,
      "coverage": 3,
-     "link": "5/Z9kJQoHTmIu2RSXW25JyrRvkKRONdw91KkX+kXz0aHswcpSI90IBYcq0bLR5S1mQhIL38eyJHwZfNFV5ZfHRDG6lkd301lhn45uj6/4YTzArnP"
+     "link": "Mdepqmf4E6ODWs+V+3cVTpU3y/EA12/ghlpNogOeXWNASXcQns3m/8LPsZFH7x7nvgHJ9dqx/aUjTZmNQnwloS/UKSBKrqnbwJrrBN9d7p4U3sFp"
     },
     {
      "title": "Google Launches Gemini 4 Carbon, Its Second Major AI Model in a Month",
@@ -209,7 +209,7 @@
      "summary": "Google releases Gemini 4 Carbon, a more capable AI model than its previous one, as it tries to compete with leading AI labs. This is part of Google's efforts to improve its AI capabilities and stay competitive in the field.",
      "needs_login": true,
      "coverage": 4,
-     "link": "hNRLmmpUzpnA6G9ApzrVNz+udgkov0dtNrYwjoXcJY6S1QRPrDZ3LXVX1rGmXFI0WnlD5JmgQ57hWjINTFAwLW5qX+bWBnqlEBCjh6BseUBIuUYlce4g37ktpW9FCWU+Ezopj/dN0MCayxd2KlcVEcN5CVzhHlslNvo6W7dLOAU="
+     "link": "xxVnFUTkr2KNH6Yi5FRvq1DYcqJ5DGbnQWCv2es3hpNn6pEUXVxlHh6k30v9R+Af/gHmyU4hj7j+FCDD9AVnL0ZBYGyCcI6Sd/f39v8JIM8TlNsxYRCHsMS2WQ3w+zqKASMNEo9XsUAaAj9Mf/pSqk9DBD5zuOz/Agdx/ivtgcQ="
     },
     {
      "title": "Making it easier for websites to express AI training preferences",
@@ -221,7 +221,7 @@
      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
      "needs_login": false,
      "coverage": 4,
-     "link": "Pg0Ti47Ft+R+jOsfuZyFkay+MVKtO9o/ut/C8YUUSmLCYI7I8P16PnAxrudt3pg4P3kYyv/rK33MjbkURbtvOt480i/04pp1VQPoDek8fezKIdjYJV0S0hCUOS5VS1TozEVpH7o="
+     "link": "uuNnGHMe3SOK20SlHxjyVPCQJbb71nydXPYx8ED7+1Nt2R8AnVjyoMsrT/4ArSYCBb5NtkmXF4TRyMNoYAsgltVGoYrxscLzklumURd4x6Y1Z740E56Pwa3hui0/ZHI3eo2ghxQ="
     },
     {
      "title": "‘Nobody’s Ready’: AI-Found Bugs Spark a Corporate Security Spending Spree",
@@ -234,7 +234,7 @@
      "summary": "Companies are increasing cybersecurity spending due to recent AI-related security incidents, including a hack of a root certificate authority and a vulnerability in a popular AI tool.",
      "needs_login": true,
      "coverage": 3,
-     "link": "HJE5cHptuCiv3xJTqKDDEek4k1gQTVvlT/zRV1OhOv1T82bpLfa2L8PGmGW+AclbFFSNj2sYXw/c1+Z31H2lcCt3WADymr93YK93Hqg2SW0iOwCp4qc2Y5BGNqiBUpknKVK3Q8OxC/Sdgjdd3oiyEk5Lw8/OzUqe12SUXley7wkt69560/Os"
+     "link": "qo2E5SDGr1ymtUiMukJIPTXaoqn1fjekIDKdVGAQrkeHvJ7mDt0IEj7LMdWezaGgs0hdV970Gmano3TmbZRDBwhh3dvzWVMpOHRxx6dKSCatdp01tc4/c57eRqq7JAZKSzSzq5houxUaAzN2xuEFcvS4tSWmwLaOrvDkurn3ES+Jx8YIFhK5"
     },
     {
      "title": "S&P turns negative on Meta as AI spending eats into its cash",
@@ -248,7 +248,7 @@
      "summary": "S&P lowered Meta's credit rating outlook to negative due to heavy AI spending, expecting leverage to rise above 1.0x by 2027. This highlights the financial risks of investing heavily in AI.",
      "needs_login": false,
      "coverage": 2,
-     "link": "KVgzqeqak268i643sOq/PGohglwdsjjHB8JfASI5NozH26TrtpNinAxeAl/KmlolZUGLy70zvxX4cTWj/cJo9ydd1FToDO3ZeYgArmJ6hRvffAeMtUOfgJu9RxY="
+     "link": "PZwQIYAWpKJMEGBxjc/gek4ADY/3CyhWZNIKm1lGnDGxKEofFe76RB4YA8oVVmQTJ4CspDWTVCrTpEZ4snrCjQXj1Elr2soDRaDq1rgBaezkh9j2koE6w+heTdc="
     },
     {
      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
@@ -260,7 +260,7 @@
      "summary": "Researchers propose Partner-Outsider Positive Listening (PoPLi), a method to detect covert collusion between AI agents by analyzing their reactions to reworded messages. This method can help identify hidden coordination between agents.",
      "needs_login": false,
      "coverage": 2,
-     "link": "gx84t2rg0V+yw0Um34Z+28w//vwVVWZqLe+Pd6VAPmJXyQKIOhE0VwCZP0ES2vY/aL3Gh20fzen10Hz0"
+     "link": "PfPtne48OdbuWGWJ4wlVUkac8TfaNJnRuApC7ZWGt70Ei4OCvjtLLBPwYouoEllB+UcKqffWjuy/qnnz"
     },
     {
      "title": "Scenarios for our economic future",
@@ -273,13 +273,13 @@
      "summary": "Anthropic's Economics team built a model to predict the economic impact of AI on jobs, growth, and unemployment in the US by 2030, considering various scenarios of AI capabilities and usage.",
      "needs_login": false,
      "coverage": 2,
-     "link": "pCqeheIspAvKTTahCdP+y+aJJM3bIh56h+DDsaShsB8KiGK0n/r+DYP/9gB9czJlHEmEEsP4VmhV/IcfEy+/XEj2gmoQ8FjwhGp/OWmJ"
+     "link": "5OngWcLCH/7A9aqq+c6jwXhO0cSLJz4gsAjmo7GcPJUJCN1YGED41IdTCRyzVLkwMJmUlEYry1LsiDQBp0H+KTcfGtas1mL2ohbA4qEY"
     }
    ]
   }
  ],
  "crypto": {
   "iterations": 600000,
-  "salt": "bgoL+kiRu0vYwuf1BLNR0w=="
+  "salt": "vDvOdJ+DUhqfRCp8BWEtbA=="
  }
 }
