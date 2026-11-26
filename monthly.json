@@ -2,8 +2,8 @@
  "months": [
   {
    "month": "2026-11",
-   "generated": "2026-11-25T10:00:10.143799+00:00",
-   "summary": "The month saw significant developments in AI, with Anthropic's IPO valuing the company at $1.5tn, sparking concerns about an AI bubble. Anthropic also released upgraded models for technical challenges, while OpenAI introduced GPT-6.2 Astra and Sol with improved performance. Anthropic allowed companies to run Claude's agent service on their own servers, addressing concerns around data sovereignty. Meanwhile, Nvidia CEO Jensen Huang resigned, creating uncertainty for the AI sector. Other notable developments included a researcher claiming to have used Claude to prove the Riemann hypothesis, and OpenAI introducing a cybersecurity model. Meta also released a small and affordable AI model, Muse Ember, at a third of the cost of Claude Haiku.",
+   "generated": "2026-11-26T06:21:09.788238+00:00",
+   "summary": "The month saw significant developments in AI, with Anthropic's IPO valuing the company at $1.5tn, sparking concerns about an AI bubble. The company also released upgraded models for technical challenges, Claude Fable 5.2 and Mythos 5.2, with improved capabilities and safety features. Meanwhile, Nvidia CEO Jensen Huang resigned, creating uncertainty for the AI sector. Additionally, OpenAI introduced GPT-6 Cyber, a cybersecurity model that finds vulnerabilities and develops fixes, and OpenAI allowed businesses to claim verified profiles in ChatGPT and launch AI agents. The month also highlighted the potential risks of the AI bubble, including the reliance on debt and physical power bottlenecks, and the need for careful evaluation and use of powerful AI models.",
    "articles": [
     {
      "title": "Anthropic prices its IPO at $83 a share, valuing it at about $1.5tn",
@@ -17,7 +17,7 @@
      "summary": "Anthropic's IPO priced at $83 a share, valuing the company at $1.5tn. This massive valuation highlights the growing hype and investment in AI, sparking concerns about an AI bubble.",
      "needs_login": false,
      "coverage": 12,
-     "link": "0ojZGRMvJ75agE9hCkewfxD36kdMM/4nWT38mFOMjeEPyN8gaMqdFHD3DdtjbDAbAJNFFidsFF9HA+heD6jr6pLHW3ofnm/sbDkmJXcMvLBrSyn3NG8t5H+HA8gIhD+gjP9OJtNbDpfvqnAWwZrL"
+     "link": "u13BWfpqakv2FzfKhnGFJ2v7q/LwOt5vgtO/7CL8Q1iah4zSq6w/RD23XCTjDdptTRaF5gaf7pOJkJZKzfhKTxzimNrzAcBGJYzgx5ZlrN6SsJg2hvBYilRsgHOLL/CDtQPheakO4MaTZS++n2C/"
     },
     {
      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
@@ -30,33 +30,7 @@
      "summary": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, upgraded models for technical challenges, with improved coding, reasoning, and vision capabilities, and enhanced safety features. This matters because it shows significant advancements in AI capabilities, but also highlights the need for careful evaluation and use of such powerful models.",
      "needs_login": false,
      "coverage": 9,
-     "link": "gLrSZ5sg/RSgqXFLeLmgm8buJqG2bvacCI+rP6VkPSEuOsVtlCMvtleA0Cva0gjtHClov4Zd5auboHImN3QUwKn/zjogaPbWfKXnpjomWYBg"
-    },
-    {
-     "title": "Introducing GPT-6.2 Astra and Sol",
-     "source": "OpenAI News",
-     "published": "2026-11-17T17:45:00+00:00",
-     "lanes": [
-      "General AI",
-      "How to rely on AI?"
-     ],
-     "summary": "OpenAI introduces GPT-6.2 Astra and Sol, with improved performance in professional outputs, coding, and computer use, at a lower cost. This matters because it could increase the reliability and trustworthiness of AI models in various applications.",
-     "needs_login": false,
-     "coverage": 7,
-     "link": "Q02ZfSCPtAJpnGNOxiU/qPFX5MmrHD1AlaaFOWftIP/bLs2UQoBfT5Eh1qcR0UUQwbfTMDSouziTkEW17hSuh0OaZ7R9waJuYKVMRctlGh0tbg=="
-    },
-    {
-     "title": "Anthropic lets companies run Claude’s agent service on their own servers",
-     "source": "The Next Web",
-     "published": "2026-11-12T19:06:13+00:00",
-     "lanes": [
-      "Claude",
-      "How to rely on AI?"
-     ],
-     "summary": "Anthropic now allows companies to run Claude Managed Agents on their own servers, giving them more control over data and model calls. This matters because it addresses concerns around data sovereignty and potential vendor lock-in.",
-     "needs_login": false,
-     "coverage": 7,
-     "link": "zqe9FW65e3t8DwZaJOaSc+iRtm+G5g4uGl3lhqQO4n/FcQY1ies6cwZ9ISbrquOYcPd4Jny7W7QX6nGuJOZsC06r15M45MkQvZjRwEmHnojVYaQeQGErK4TQnQYnsWmmrgff"
+     "link": "IgHJMvywcOQelJJuyXDXyYa9E9TYHJpTX3IBY2qzQc8u4rq7FCzoel1kW6lTAEwaXLN5hVa9nEwHqTQNU0uHRa7ffH6MFozRwKbkwMBWT+g4"
     },
     {
      "title": "Nvidia CEO Jensen Huang Resigns, Creating Uncertainty for the AI Sector",
@@ -70,7 +44,36 @@
      "summary": "Nvidia CEO Jensen Huang resigned amid reports of a foreign intelligence effort and an extramarital affair. His departure creates uncertainty for the AI sector, which relies heavily on Nvidia's AI-focused hardware.",
      "needs_login": true,
      "coverage": 8,
-     "link": "fajPUhq7eVgHZIwhQRYSicAevGeXLOp/7nEBM6QTxi7ibMfWTN3lLhW5n7m87RceeYyoEZMaSlX+DLfxGoPhIicMR8lD45LrbnmpNk0ThBHcfs7jGYSIOIps0nX4cNCmzJwDlw2+ewE6XxZiIu5DmgYHOlhJVtSxqDfmFq10NZVi0g=="
+     "link": "wMBXp7Lrv8IL1FIpRdTCWLijJQ3qaPsRzpb0t9HfIMOKnbJmcCfYHDwbAcFWWFv08JfIbQpL4GLOoYxeu7YCXHLPNe67Xkv3lhevWdR0aRIlRkEj2is0rfhvTvAS+UZomtU8IMw2MmB2EWZrtQ5Khaujh9+9aPVXRXWNIHAxTTz2Wg=="
+    },
+    {
+     "title": "The AI Bubble Is Hiding in Plain Sight (And Running Out of Power)",
+     "source": "Email: Tanmay Bansal",
+     "published": "2026-11-02T16:40:00+00:00",
+     "lanes": [
+      "General AI",
+      "Hardware",
+      "Is there an AI bubble?"
+     ],
+     "summary": "Tech giants plan to spend $725 billion on AI infrastructure, but their massive data centers rely on a fragile web of debt and physical power bottlenecks. This highlights the potential risks of the AI bubble.",
+     "needs_login": false,
+     "coverage": 6,
+     "link": "vaeqgpIMPey0in1tu5ezDYrDfYQyM/hAL6WkF87EOVrsMTV9rwfHf1UXq/fM3nM6mJpjJFlKIm40L9LV3mH9Mupv7hpUNN83MArjDStMmEqyT8jHYoi8vefJmmPl/wQnWPuiaDMQNAYSyK4fvttNmmKlQqfSt4Ey9HWnsz8GqT4svoc="
+    },
+    {
+     "title": "Anthropic had Claude write training data that makes a small model misaligned while passing a monitor similar to the ones it uses in production",
+     "source": "Email: Bryson Masse from VB Daily",
+     "published": "2026-11-02T20:46:08+00:00",
+     "lanes": [
+      "Claude",
+      "General AI",
+      "Security",
+      "How to rely on AI?"
+     ],
+     "summary": "Anthropic used Claude to generate training data that made a small model misaligned while passing a production monitor, highlighting a possible gap in current training monitoring defenses.",
+     "needs_login": false,
+     "coverage": 6,
+     "link": "J3cW5ssTedaTT3tepqsSU+yWTOxwzynUzT0k4yAS0grRbLQHqirWMEmqgx6bvKAYVSo+WHb7x9ZTobELMxhoADjJY3RcTNipuoAisW3FpIATBhgL"
     },
     {
      "title": "Anthropic researcher claims Claude helped him prove the Riemann hypothesis",
@@ -82,7 +85,7 @@
      "summary": "Anthropic researcher Levent Alpöge claims to have used Claude to prove the Riemann hypothesis, a famous unsolved math problem. This could be a significant breakthrough in mathematics if verified.",
      "needs_login": false,
      "coverage": 6,
-     "link": "Mxoo5i6xO5SS88slLxnEtZwnzIKxBpOA11yW4jGy0ICf3aUgD0nJ6FKI1Qo6jfKfZIwKGDc2+2jeIx0/j35QoNC2DYzF17wBwHSBI2+YAdBxp1ilJLG1Q9jlvzl+5SQm88ZxKUoqEyppM1dVNt8ZLYESz0CZDD+/IoUddKKQjbalVA=="
+     "link": "7lye1z1XsptXkDZoSivXgiagRDtSl3BzQEyvi08CEeIepWEpUWGhcixAiWrdJHrjp6DkNJ3p1UuEuUfo0yykiHmRFcReI9H4kkz4/uGmc/OOHn4v7q6EHKSRCNveN0EqDeVQD7WYx0FTM5Vwl50mkwupyTAN7l9kE0xhHcxL/ZnWcg=="
     },
     {
      "title": "Cursor published indicators of compromise and remediation steps for its tampered Claude Code extension",
@@ -94,7 +97,7 @@
      "summary": "A malicious version of Anthropic's Claude Code extension was published in the Cursor VS Code Extension Marketplace, attempting to install a persistent SSH backdoor and collect user information. This highlights the importance of verifying the authenticity of AI tools and extensions.",
      "needs_login": false,
      "coverage": 6,
-     "link": "vSqf/Zhq/aQdL2WZDLuwk9V0m2crlGdGPc0Hw3/f+4p7HZJVYL0Bbk3W0FQbdZX7pe8+FUEuLnAVUkHFXxMsaXQC+f0RKNEy/lfBWA93p+Wn3AogdmEjewE="
+     "link": "qOVXVy5p+mGbzloGXyxmBtXuzCOy8eNDyVJIFNRNbHzsu09YO58RXmcfj5SMbQolyaeDRfC6DBnAg9Sh/UU30MNQBghG/+YUjm/YQSTZgkkdzufTVuis+7w="
     },
     {
      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
@@ -108,33 +111,33 @@
      "summary": "OpenAI introduces GPT-6 Cyber, a cybersecurity model that finds vulnerabilities and develops fixes, trained to stay within authorized scope. This matters because it could improve the efficiency and effectiveness of cybersecurity efforts.",
      "needs_login": false,
      "coverage": 6,
-     "link": "odbN6gYDyZqI5n8HDi4jBTmXkabko/jRc0L8GDgXRTP1TqhJgYn4fes9u2WMF+uOOVCMON9T6EWOSKSdW7GPrN8d6g8/06dwn9SrEg=="
+     "link": "K0BMvOEGmppmtnYLe0Te6ITuAtzSqlR47AqJAz3CA2ZjAmtfoz4I2G9QGEKOczCzQ+tYT1rVDUghlYxWT7gdRDFVX1k1zBtUlVTLsw=="
     },
     {
-     "title": "Two Years of MCP Builders",
-     "source": "MCP Blog",
-     "published": "2026-11-24T09:00:00+00:00",
+     "title": "METR's latest projections put 200-hour AI-agent tasks within reach in 2027, if its historical trend holds.",
+     "source": "Email: Bryson Masse from VB Daily",
+     "published": "2026-11-23T23:39:44+00:00",
      "lanes": [
-      "MCP"
+      "General AI"
      ],
-     "summary": "The Model Context Protocol (MCP) celebrates its 2-year anniversary, highlighting its community's growth with over 2,500 unique contributors since its launch on GitHub. This milestone marks the project's progress in connecting AI applications to tools and data.",
+     "summary": "Public models are improving at a rapid pace, potentially leading to drastic AI R&D acceleration by 2027. This could pose catastrophic risks if humans can't understand and react to new AI systems.",
      "needs_login": false,
-     "coverage": 7,
-     "link": "z6QNDtW592fJxvJ/pwj4AyeojlrwiSv2qpDO5QZvkMss9N9QvFmTu/+RgKHS69KYwr0QJIcdrHCb36QYB919JgPOTX0qPY0/kmWdaoydjv91XcuO"
+     "coverage": 5,
+     "link": "yYX59F5RUG4nV5+9ubnNRn/A+1qFPotApXi230HTMMSDRi4iUyFMTFYDmr7b9saogr0lWVIKHsqH4MIrxlcE60rV0z3X/oKr7D+aXSFoVFxIF8+YU+4="
     },
     {
-     "title": "Meta’s Muse Ember matches Claude Haiku at a third of the cost per task",
+     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
      "source": "The Next Web",
-     "published": "2026-11-09T19:34:31+00:00",
+     "published": "2026-11-10T19:06:21+00:00",
      "lanes": [
+      "Agents",
       "General AI",
-      "Hardware",
-      "How to optimise token costs?"
+      "How to rely on AI?"
      ],
-     "summary": "Meta releases Muse Ember, a small and affordable AI model costing $0.10 per million input tokens, suitable for repetitive tasks. This matters as it could make AI more accessible for smaller tasks and reduce costs.",
+     "summary": "OpenAI allows businesses to claim verified profiles in ChatGPT and launch AI agents, providing aggregated data on mentions and enabling businesses to interact with users through AI.",
      "needs_login": false,
-     "coverage": 4,
-     "link": "nTrk3QWYPftbWz8Mz9889MHFdVCUlYMh41iyTd3f6r1HQkH0cFBWVwX3HZkSIJ0Z9GaVi6IGqocKUCbqlWi8oB1ACH+N0PWwbj1j1pfpAR7gqJISiaKO8AO1SWvgqQLqCw=="
+     "coverage": 5,
+     "link": "xNwbAgM7NhwXdW16SCDX9aFCwd3brUIJN55rOKq77k6LCuJ8WfvYUIUcAPy5X5B/MgFOpW9xpKrs0q/ybrcWvUh+LYzg14QynHXBMVdicwT3Bdmm/AIEUXOZ5ddWITlEeU9U/Q=="
     }
    ]
   },
@@ -155,7 +158,7 @@
      "summary": "Anthropic's quarterly revenue increased nearly 50% to $16.8bn, with $1.70 in revenue for every $1 spent on computing power, and adjusted operating margins of 11%.",
      "needs_login": false,
      "coverage": 7,
-     "link": "GEYMTOn7kxvpyv0RFX7K8zpwyb7VE0/TngMwCgYbM5HZLoSZ/3WvlMk4UQlh/5oYS25JrPmZ70GZcb9vYD0RS757u0QL4dxR0vQR0jUL+1Y4bKD8oH0htTJx4Q=="
+     "link": "ly+8OZRPAo8l4WMFqVYm4Z04a5v7Dmc62FWyjSVb/IwMzKF0qDsA5FIdoRAzEs4a8UpGFHT7O+E6sIHk69WRrIT+XeZCHEXtxfSgkHXLIgybNbC3w2t95f8TLQ=="
     },
     {
      "title": "Google to Sell AI Chips to OpenAI, Oracle",
@@ -168,7 +171,7 @@
      "summary": "Google will sell its tensor processing units (TPUs) to Oracle and OpenAI, challenging Nvidia's dominance in the AI chip market.",
      "needs_login": true,
      "coverage": 2,
-     "link": "ipo9jwituGknoc874hzxAYUd4JA4D3cNGQLXR+r2ItPxtJr7ehu4yn0hojC8e7JRG4w5pVGBW24uC3AuLZdtbJPJOL4d/9T0Jpifh8O//k1LIIfZuUoOdvVTXZ4G+BXTTnaRKStID+I7AKg="
+     "link": "VEq1CqNn6WrhA7Uqolo2rxlqNFqQmxnTnHSgyEj5ILqYDUw1D3z3WndhOImxEROPKx6zF7xZ6oOEcPLZWy/xxUcyrrAvmC80CLj/r5vwMSW9BqCCsAiCrD40Tth6zLKhDrKZArfbrTRpAcI="
     },
     {
      "title": "No Signs of AI Payoff Outside the Tech Sector",
@@ -183,7 +186,7 @@
      "summary": "A study finds no financial payoff from AI investments outside the tech sector, with revenue and profit margins flat for non-tech companies. This raises concerns about the limited macroeconomic impact of AI and its potential to drive revenue growth and profit margins.",
      "needs_login": false,
      "coverage": 4,
-     "link": "g01oAQOTKbpFijDJijPd6SbtRmbsMhhp40fxB3In4lgjFBREAsSCt0xYxQ+4KtokcHwJZgh6y+iiA5ZAjS0SZkocWgjvT/UTSS8X6MQMxhG1+5G1v3D/lCB3FVwtTNcq00QLnZfXGG87uwW4tUrTvkVyhaxwGa5WuxuoclT2gBF2ODM="
+     "link": "ZQnz6oKBwch9IDt6RdPmr/LPfyEDSQza9+JaQ0qXU5NleMZYEIufxz8Yxb9oUEoW45pw21KPnUa56jb9gP05kI0ZD+UL3ProkfdKwGwGRn5vpZWW/vNEnAG/ritMWN99VkBNPk+fy04aETZ5d91mJsMh5zBsQIAHHhV4n0mmKNtQFeI="
     },
     {
      "title": "OpenAI acquires Orchestra Bio",
@@ -196,7 +199,7 @@
      "summary": "OpenAI acquires Orchestra Bio to bring AI-powered operations to life sciences R&D, accelerating drug development and advancing new treatments.",
      "needs_login": false,
      "coverage": 3,
-     "link": "Mdepqmf4E6ODWs+V+3cVTpU3y/EA12/ghlpNogOeXWNASXcQns3m/8LPsZFH7x7nvgHJ9dqx/aUjTZmNQnwloS/UKSBKrqnbwJrrBN9d7p4U3sFp"
+     "link": "21p0JhBBoAIT0kQ7iO4RB3sIk0Ffvx2fOv/6Y0NepRuhXgbBqXJwKtCjp9rwdifrtxoCHCKa6xMSwrzqNwApwmAgulhZWpe8giC97PNLaXMLmf+/"
     },
     {
      "title": "Google Launches Gemini 4 Carbon, Its Second Major AI Model in a Month",
@@ -209,7 +212,7 @@
      "summary": "Google releases Gemini 4 Carbon, a more capable AI model than its previous one, as it tries to compete with leading AI labs. This is part of Google's efforts to improve its AI capabilities and stay competitive in the field.",
      "needs_login": true,
      "coverage": 4,
-     "link": "xxVnFUTkr2KNH6Yi5FRvq1DYcqJ5DGbnQWCv2es3hpNn6pEUXVxlHh6k30v9R+Af/gHmyU4hj7j+FCDD9AVnL0ZBYGyCcI6Sd/f39v8JIM8TlNsxYRCHsMS2WQ3w+zqKASMNEo9XsUAaAj9Mf/pSqk9DBD5zuOz/Agdx/ivtgcQ="
+     "link": "0qAuLcNj1jk4GGSnia+3+qam3nb5BwY7ogn42H/8bQEY66gFQtwa3QfEK+HL+9Rw6qlLDOZRovSpu2+DUz8gSnBf6vsif8rhKuuO3sBHUbUpr5nAk5GCd1gjHj+72v2XP5bdXj8PhvBtW5VOELRoVkyn4nGIYI23XE7EFruxy3Y="
     },
     {
      "title": "Making it easier for websites to express AI training preferences",
@@ -221,7 +224,7 @@
      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
      "needs_login": false,
      "coverage": 4,
-     "link": "uuNnGHMe3SOK20SlHxjyVPCQJbb71nydXPYx8ED7+1Nt2R8AnVjyoMsrT/4ArSYCBb5NtkmXF4TRyMNoYAsgltVGoYrxscLzklumURd4x6Y1Z740E56Pwa3hui0/ZHI3eo2ghxQ="
+     "link": "16ToXT4V6InCWW0/QQnGi0mYjNA+EYISiHAT4yFzn+LVQaAppn1g6K4//TzDEkR9xmr5jujBMuMJd4BuU28GXPM0dflF/ZmTIt1a4WC8iSKWPG5rft9qOReQ5Gm0p7Tt/Rl2298="
     },
     {
      "title": "‘Nobody’s Ready’: AI-Found Bugs Spark a Corporate Security Spending Spree",
@@ -234,7 +237,7 @@
      "summary": "Companies are increasing cybersecurity spending due to recent AI-related security incidents, including a hack of a root certificate authority and a vulnerability in a popular AI tool.",
      "needs_login": true,
      "coverage": 3,
-     "link": "qo2E5SDGr1ymtUiMukJIPTXaoqn1fjekIDKdVGAQrkeHvJ7mDt0IEj7LMdWezaGgs0hdV970Gmano3TmbZRDBwhh3dvzWVMpOHRxx6dKSCatdp01tc4/c57eRqq7JAZKSzSzq5houxUaAzN2xuEFcvS4tSWmwLaOrvDkurn3ES+Jx8YIFhK5"
+     "link": "HyK/LJR0SgHQqVHv1Pyur1Nb7f0XzUsG5yHHW07Obx1YUJTuj3smNwfvAbwjDmqx+T3BXGs1JvG3K6DCU6mP+5qteGc4PeQAozr1oqdCLaCiditWHAOeOmkAMYKia0E3tesXPSkxyhXjG+VztthkleyPARjPBIRE6yuBewLd1CCy34KCAu9r"
     },
     {
      "title": "S&P turns negative on Meta as AI spending eats into its cash",
@@ -248,7 +251,7 @@
      "summary": "S&P lowered Meta's credit rating outlook to negative due to heavy AI spending, expecting leverage to rise above 1.0x by 2027. This highlights the financial risks of investing heavily in AI.",
      "needs_login": false,
      "coverage": 2,
-     "link": "PZwQIYAWpKJMEGBxjc/gek4ADY/3CyhWZNIKm1lGnDGxKEofFe76RB4YA8oVVmQTJ4CspDWTVCrTpEZ4snrCjQXj1Elr2soDRaDq1rgBaezkh9j2koE6w+heTdc="
+     "link": "sjZw8uVuARrnaVT0VJNUwpjb0JQX+Ej+4breEXZRqBS4CAexVaHFnChTpBGfLS+2wWLnhpB04u09H9U2ne0MyagUV2acQwF+bGEV4uCrAOBokbqMrn00S0++1S0="
     },
     {
      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
@@ -260,7 +263,7 @@
      "summary": "Researchers propose Partner-Outsider Positive Listening (PoPLi), a method to detect covert collusion between AI agents by analyzing their reactions to reworded messages. This method can help identify hidden coordination between agents.",
      "needs_login": false,
      "coverage": 2,
-     "link": "PfPtne48OdbuWGWJ4wlVUkac8TfaNJnRuApC7ZWGt70Ei4OCvjtLLBPwYouoEllB+UcKqffWjuy/qnnz"
+     "link": "xfVbbVlDJ88PJosFA0LwfmYLbuYSiKBZl1hTaoT2DdQ7wr6euH5+e/lPvm2jn2qwIQawV65mcU3c0Y5k"
     },
     {
      "title": "Scenarios for our economic future",
@@ -273,13 +276,13 @@
      "summary": "Anthropic's Economics team built a model to predict the economic impact of AI on jobs, growth, and unemployment in the US by 2030, considering various scenarios of AI capabilities and usage.",
      "needs_login": false,
      "coverage": 2,
-     "link": "5OngWcLCH/7A9aqq+c6jwXhO0cSLJz4gsAjmo7GcPJUJCN1YGED41IdTCRyzVLkwMJmUlEYry1LsiDQBp0H+KTcfGtas1mL2ohbA4qEY"
+     "link": "EfqQ4M8hd626deDtkJcyoBlDvx9hF6g3+HJYsgbznjF1SYmVdfgAO/6cAGSYGgFCCnMwEzC7dBnCFrAhROvAq5cyM95Ej+OLk9VZm8e4"
     }
    ]
   }
  ],
  "crypto": {
   "iterations": 600000,
-  "salt": "vDvOdJ+DUhqfRCp8BWEtbA=="
+  "salt": "9Apy5m5NLc+gVRAVI+QFLA=="
  }
 }
